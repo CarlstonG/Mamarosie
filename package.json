@@ -1,0 +1,15 @@
+{
+  "name": "mamarosies",
+  "version": "1.0.0",
+  "description": "Cake and sweets",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlston G",
+  "license": "MIT"
+}
